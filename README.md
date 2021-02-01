@@ -1,6 +1,6 @@
  # App Cadastro de Séries
 
-![Landing Page]https://github.com/joao-lucasilva/App-Cadastro-Series/blob/master/DIO.series/assets/Capturar.JPG)
+![Landing Page](https://github.com/joao-lucasilva/App-Cadastro-Series/blob/master/DIO.series/assets/Capturar.JPG)
 
 Tabela de conteúdos
 =================
@@ -12,7 +12,6 @@ Tabela de conteúdos
 
 Implementação de um sistema de cadastro de séries de televisão usando .NET e C#. Este projeto foi desenvolvido no bootcamp .NET Fundamentals da Digital Innovation One e aborda temas simples da orientação a obejtos. 
 
-![Landing Page Mobile](https://github.com/joao-lucasilva/Instagram-Landing-Page/blob/master/img/screenshot2.JPG)
 
 ## Tecnologias
 Neste projeto foi utilizado:
